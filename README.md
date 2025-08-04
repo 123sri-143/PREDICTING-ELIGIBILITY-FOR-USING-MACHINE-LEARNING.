@@ -7,13 +7,11 @@
 
                        PREDICTING ELIGIBILITY FOR USING MACHINE LEARNING.
 
-
+Presented By:
+1.	PANDI SRIRAM
+2.	STUDENT ID: STU6832ecf599a031748167925
+3.	AURORA PG COLLEGE(RAMANTHAPUR)-MCA
  
-
-
-
-
-
 OUTLINE
 	Problem Statement (Should not include solution)
 	Proposed System/Solution
