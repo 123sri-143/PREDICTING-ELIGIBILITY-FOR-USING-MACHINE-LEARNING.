@@ -3,7 +3,7 @@
 
 
 
-                                CAPSTONE PROJECT
+                                    CAPSTONE PROJECT
 
                        PREDICTING ELIGIBILITY FOR USING MACHINE LEARNING.
 
