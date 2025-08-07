@@ -29,8 +29,6 @@ The National Social Assistance Program (NSAP) offers critical financial aid to t
 
 PROPOSED SOLUTION
 
-
- 
 We propose a machine learning-based multi-class classification system that predicts the appropriate NSAP scheme for a given applicant. By leveraging the AI Kosh dataset, the system will learn patterns from historical data to automate and improve the decision-making process for scheme assignment. This tool will assist government agencies in reducing manual workload, minimizing errors, and ensuring faster and more accurate allocation of welfare benefits. 
 
 SYSTEM APPROACH
@@ -50,8 +48,6 @@ SYSTEM APPROACH
 
 ALGORITHM & DEPLOYMENT
 
-
-
 Algorithms Used:
 •	Logistic Regression (Baseline)
 •	Random Forest
@@ -69,44 +65,29 @@ Workflow:
  
 
 RESULT
-<img width="1875" height="662" alt="image" src="https://github.com/user-attachments/assets/83544a3d-7264-43d6-a002-8bc759da727e" />
-<img width="1875" height="803" alt="image" src="https://github.com/user-attachments/assets/ad30c5f6-22be-440f-90fd-af2ac66d5c58" />
-<img width="1553" height="694" alt="image" src="https://github.com/user-attachments/assets/a3610fa2-3ead-49c4-b9d6-2917d540cfce" />
-<img width="1875" height="859" alt="image" src="https://github.com/user-attachments/assets/56d7cd7b-c68f-4216-a759-ce5e75d8c898" />
-<img width="1429" height="679" alt="image" src="https://github.com/user-attachments/assets/98ee7bd3-96dc-4999-b2d9-b82abae2c7b6" />
-<img width="1875" height="903" alt="image" src="https://github.com/user-attachments/assets/98b183db-d579-489c-95ae-847ce9ec5002" />
-<img width="1875" height="888" alt="image" src="https://github.com/user-attachments/assets/8a6dd6a5-b855-4fcc-87f0-c8bd1cf37080" />
-<img width="1781" height="825" alt="image" src="https://github.com/user-attachments/assets/bff5482d-9495-4a8c-9d40-5dd5b63352c7" />
-<img width="1875" height="838" alt="image" src="https://github.com/user-attachments/assets/3e0a853c-b00d-4a1a-8673-fc86c5b87308" />
-
-  
- 
-
-
- 
-
-
- 
-
- 
-
- 
- 
- 
-
- 
+<img width="1469" height="618" alt="image" src="https://github.com/user-attachments/assets/eff226fe-f660-4e65-9355-ec2099204a16" />
+<img width="1874" height="802" alt="image" src="https://github.com/user-attachments/assets/9c7a7af6-13e6-4566-8db1-cc50b1c33cbd" />
+<img width="1902" height="828" alt="image" src="https://github.com/user-attachments/assets/eb43cb10-5746-4103-a609-8ad298f621c7" />
+<img width="1941" height="650" alt="image" src="https://github.com/user-attachments/assets/a6f476a8-26fa-465f-8368-90a781dfbe62" />
+<img width="1905" height="503" alt="image" src="https://github.com/user-attachments/assets/09706111-93a3-48b3-8379-b09ab90b2f9f" />
+<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/37eab1c6-2232-462c-96f1-b3c7eb0c6098" />
+<img width="1941" height="810" alt="image" src="https://github.com/user-attachments/assets/59d4e326-7258-45a6-8710-501b9793b331" />
+<img width="1905" height="249" alt="image" src="https://github.com/user-attachments/assets/6d451af7-b83b-420f-aa52-cd198a17e55d" />
+<img width="1941" height="947" alt="image" src="https://github.com/user-attachments/assets/a7980631-46d5-40e2-bdb7-12f5c311429b" />
+<img width="1941" height="943" alt="image" src="https://github.com/user-attachments/assets/2efe372f-ce89-4900-84ae-e96ab54417d3" />
+<img width="1788" height="969" alt="image" src="https://github.com/user-attachments/assets/27b65b54-3fa5-49f9-8dce-af0949e9c98e" />
+<img width="1919" height="832" alt="image" src="https://github.com/user-attachments/assets/9b25eff9-05dd-46fa-8efd-20af25a33568" />
+<img width="1941" height="682" alt="image" src="https://github.com/user-attachments/assets/7643c4b0-b0f1-4648-92bd-b534e0173161" />
+<img width="1941" height="927" alt="image" src="https://github.com/user-attachments/assets/f42950c6-fbdf-45ea-8155-1463f62d0382" />
+<img width="1912" height="853" alt="image" src="https://github.com/user-attachments/assets/acd59e92-0878-41ee-b331-401e33bedb29" />
 
 
 CONCLUSION
 
-
 The machine learning-based approach for NSAP scheme prediction significantly improves the accuracy and efficiency of scheme allocation. With automated eligibility prediction, the system can reduce manual errors and speed up the distribution process. Among all algorithms tested, XGBoost provided the most balanced performance in terms of accuracy and generalization.
  
 
-
 FUTURE SCOPE
-
-
 
 1)Integrate real-time data collection from government databases.
 2)Expand the model to include other social welfare schemes.
@@ -122,29 +103,9 @@ REFERENCES
 4) LightGBM Documentation: https://lightgbm.readthedocs.io/
 5) Government of India NSAP Portal: https://nsap.nic.in/
  
-     
- 
-             		  
-	  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ IBM CERTIFICATIONS    
+<img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/3d08019f-2480-47b6-82f2-b0ede839904a" />
+<img width="1158" height="865" alt="image" src="https://github.com/user-attachments/assets/72f4621a-4282-4526-b333-7a87171f18f6" />
+<img width="1337" height="865" alt="image" src="https://github.com/user-attachments/assets/22f069a7-d0c2-48d1-a7b8-b88075420a98" />
 
 THANK YOU
